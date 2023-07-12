@@ -7,5 +7,6 @@
 - 💥 In this summer, I will take part in [OSPP(Open Source Promotion Plan)](https://summer-ospp.ac.cn/)<img src="https://summer-ospp.ac.cn/vite.svg" width = "60" height = "35"  align=center />, with the honor of contributing for [MMPretrain](https://github.com/open-mmlab/mmpretrain) to build prompt-based classifier.<img src="https://oss.openmmlab.com/www/community/mm.png" width = "60" height = "35"  align=center />
 - ❤️‍🔥 Now, I am intersted in Computer Vision and Multi-modal Learning.
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coobiw)](https://github.com/anuraghazra/github-readme-stats)
+\\
+\\
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coobiw&show_icons=true&theme=rose)
