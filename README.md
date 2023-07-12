@@ -1,6 +1,7 @@
 ### Hi ! Here is Coobiw 👋
-<img src="Cyberpunk.jpeg" width = "640" height = "480"  align=center />
-
+<img src="Cyberpunk.jpeg" width = "1024" height = "1024"  align=center />
+<br />
+<br />
 #### 🙋‍♂️ About Me:
 
 - 👨‍🦰 I’m currently a M.Phil candidate of SECE, Peking University. <img src="https://www.pku.edu.cn/pku_logo_red.png" width = "50" height = "40"  align=center />
