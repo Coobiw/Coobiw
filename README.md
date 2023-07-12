@@ -1,5 +1,5 @@
 ### Hi ! Here is Coobiw 👋
-<img src="Cyberpunk.jpeg" width = "512" height = "512"  align=center />
+<img src="Cyberpunk.jpeg" width = "640" height = "480"  align=center />
 
 #### 🙋‍♂️ About Me:
 
