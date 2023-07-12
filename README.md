@@ -1,7 +1,6 @@
 ### Hi ! Here is Coobiw 👋
-https://img.88icon.com/upload/jpg/20210525/31e42ac5f0badc41f7eca0c4803f20bb_123970_717_564.jpg!bg
 
-#### About Me:
+#### 🙋‍♂️About Me:
 
 - 👨‍🦰 I’m currently a M.Phil candidate of SECE, Peking University. <img src="https://www.pku.edu.cn/pku_logo_red.png" width = "50" height = "40"  align=center />
 - 👦 Before that, I received the (Honours) B.E. in ECE, HUST.<img src="https://upload.wikimedia.org/wikipedia/zh/thumb/a/ab/Huazhong_University_of_Science_%26_Technology_logo.svg/1920px-Huazhong_University_of_Science_%26_Technology_logo.svg.png" width = "55" height = "40"  align=center />
