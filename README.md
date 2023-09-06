@@ -14,7 +14,7 @@
 - 👦 Before that, I received the (Honours) B.E., HUST.<img src="https://upload.wikimedia.org/wikipedia/zh/thumb/a/ab/Huazhong_University_of_Science_%26_Technology_logo.svg/1920px-Huazhong_University_of_Science_%26_Technology_logo.svg.png" width = "55" height = "40"  align=center />
 - ❤️‍🔥 Now, I am intersted in Computer Vision and Multi-modal Learning.
 - 💥 In this summer, I will take part in [OSPP(Open Source Promotion Plan)](https://summer-ospp.ac.cn/) Summer Camp <img src="https://summer-ospp.ac.cn/vite.svg" width = "60" height = "35"  align=center />, with the honor of contributing for [MMPretrain](https://github.com/open-mmlab/mmpretrain) to build prompt-based classifier. <img src="https://oss.openmmlab.com/www/community/mm.png" width = "60" height = "35"  align=center />
-   - Now, the implement of zero-shot CLIP classifier has been merged to the main branch.[PR Link](https://github.com/open-mmlab/mmpretrain/pull/1737)
+   - Now, the implement of zero-shot CLIP classifier has been merged to the main branch. [PR Link](https://github.com/open-mmlab/mmpretrain/pull/1737)
 
 <br />
 <br />
