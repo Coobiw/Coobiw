@@ -3,7 +3,7 @@
 #### 🙋‍♂️ About Me:
 
 - 👨‍🦰 I’m currently a Master of Science candidate of Peking University (PKU). <img src="https://www.pku.edu.cn/pku_logo_red.png" width = "50" height = "40"  align=center />
-- 👦 Before that, I received the Honours Bachelor of Engineering, Huazhong University of Science and Technology (HUST).<img src="https://upload.wikimedia.org/wikipedia/zh/thumb/a/ab/Huazhong_University_of_Science_%26_Technology_logo.svg/1920px-Huazhong_University_of_Science_%26_Technology_logo.svg.png" width = "55" height = "40" align=center />
+- 👦 Before that, I received the Honours Bachelor, Huazhong University of Science and Technology (HUST).<img src="https://upload.wikimedia.org/wikipedia/zh/thumb/a/ab/Huazhong_University_of_Science_%26_Technology_logo.svg/1920px-Huazhong_University_of_Science_%26_Technology_logo.svg.png" width = "55" height = "40" align=center />
 - ❤️‍🔥 Now, I am intersted in Multi-modal Learning especially MLLM.
 
 #### 😋 Projects:
