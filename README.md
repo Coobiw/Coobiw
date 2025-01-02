@@ -1,4 +1,4 @@
-### Hi ! Here is Bowen(Brian) Qu! 👋
+### Hi ! Here is Brian Qu *(officially Bowen Qu)*!  👋
 
 #### 🙋‍♂️ About Me:
 
