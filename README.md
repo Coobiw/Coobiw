@@ -1,4 +1,4 @@
-### Hi ! Here is Coobiw 👋
+### Hi ! Here is Bowen(Brian) Qu! 👋
 
 #### 🙋‍♂️ About Me:
 
