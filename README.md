@@ -14,7 +14,7 @@
 - 💥 2024.9: We release `ChartMoE`, a multimodal large language model with **Mixture-of-Expert connector**, for advanced chart 1)understanding, 2)replot, 3)editing, 4)highlighting and 5)transformation. [![arXiv](https://img.shields.io/badge/ArXiv-Prepint-red)](https://arxiv.org/abs/2409.03277)  [![Project Page](https://img.shields.io/badge/Project-Page-brightgreen)](https://chartmoe.github.io/) [![Codebase](https://img.shields.io/badge/Github-Repo-pink)](https://github.com/IDEA-FinAI/ChartMoE)
 - 💥💥💥 2024.10: I am really fortunate to be involved in the development of `Aria`. `Aria` is a **Naive Multimodal MoE** model, with *best-in-class performance across multimodal, language, and coding tasks*! [![Blog](https://img.shields.io/badge/Blog-brightgreen)](https://rhymes.ai/blog) [![Tech Report](https://img.shields.io/badge/Tech-Report-red)](https://arxiv.org/pdf/2410.05993) [![Code](https://img.shields.io/badge/Github-Repo-pink)](https://github.com/rhymes-ai/Aria)
 - 🎉🎉🎉 2025.1: `ChartMoE` is accepted by **ICLR2025**! [![Codebase](https://img.shields.io/badge/Github-Repo-pink)](https://github.com/IDEA-FinAI/ChartMoE)
-- 🎉🎉🎉 2025.2: `ChartMoE` is selected as **ICLR2025 Oral**!
+- 🎉🎉🎉 2025.2: `ChartMoE` is selected as **ICLR2025 Oral(1.8%)**!
 <br />
 <br />
 
